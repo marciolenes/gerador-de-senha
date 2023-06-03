@@ -17,4 +17,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Gerador de Senha](https://alarme-em-js.netlify.app/)
+- [Gerador de Senha](https://gerador-eficiente-de-senha.netlify.app/)
